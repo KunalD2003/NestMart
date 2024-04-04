@@ -1,0 +1,57 @@
+.home-four-card-product-container{
+  padding-block: 0.5rem;
+  border: none;
+  height: 100%;
+}
+
+.home-four-card-product-rating{
+  height: 0.85rem;
+  width: 4.1rem;
+  opacity: 0.8;
+}
+.home-four-card-product-rating-div{
+  display: flex;
+}
+.home-four-card-product-title-rating-manufacturer{
+  padding-block: 0.5rem;
+}
+.home-four-card-product-rating-image-div{
+  display: flex;
+}
+.home-four-card-product-total-ratings{
+  display: flex;
+  font-size: 0.85rem;
+  line-height: 1;
+  margin-left: 8px;
+  color: #adadad;
+  margin-bottom: 4px;
+}
+
+.home-four-card-product-title{
+  font-size: 16px;
+  font-weight: 900;
+  margin-bottom: 8px;
+  color: #253d4e;
+  font-family: Quicksand, sans-serif;
+}
+
+.home-four-card-product-offer-price, .home-four-card-product-price, .home-four-card-product-price-2{
+  color: #3bb77e;
+}
+.home-four-card-product-price{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 0.5rem;
+}
+.home-four-card-product-current-price-1{
+  color: #adadad;
+  margin-left: 0.5rem;
+  font-size: 14px;
+}
+.home-four-card-productx-price-2{
+  font-size: 18px;
+  font-weight: 700;
+  margin-block: 0.75rem;
+}

@@ -1,0 +1,26 @@
+.breadcrumb-link {
+  text-decoration: none;
+  color: #3bb77e;
+}
+
+.breadcrumb-component {
+  display: flex;
+  color: #7e7e7e;
+  font-size: 14px;
+  font-weight: 700;
+  margin-block: 1rem;
+}
+
+.breadcrumb-link-div {
+  margin-inline: 1rem;
+}
+.breadcrumb-next-div{
+  display: flex;
+}
+.breadcrumb-next{
+  margin-block: auto;
+}
+.breadcrumb-next::before{
+  line-height: 0;
+  display: flex;
+}

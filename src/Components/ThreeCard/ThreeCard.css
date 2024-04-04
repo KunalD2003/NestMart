@@ -1,0 +1,58 @@
+.three-card-subscription {
+  content: "";
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  font-family: "Quicksand", sans-serif;
+  background-position: 50%;
+  height: 15rem;
+  width: 25rem;
+  margin-inline: 0.5rem;
+}
+
+.three-card-content-section {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding-block: 40px;
+  padding-inline: 30px;
+  height: 100%;
+}
+
+.three-card-text {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+}
+
+.three-card-heading {
+  font-size: 24px;  
+  color: #253d4e;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 15px;
+}
+.three-card-banner-1{
+  color: #3bb77e;
+}
+.shop-now-btn{
+  --bs-btn-bg: #3bb77e;
+  border: none;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  margin-inline: 4px;
+  
+}
+.shop-now-text{
+  font-size: 700;
+}
+.shop-now-btn-icon{
+  line-height: unset;
+  font-weight: 900;
+  margin-left: 4px;
+}
+.shop-now-btn:hover{
+  background-color: #fdc040;
+}

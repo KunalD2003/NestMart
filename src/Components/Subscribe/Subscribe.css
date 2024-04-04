@@ -1,0 +1,30 @@
+.subs-input-btn{
+  display: flex;
+  background-color: white;
+  width: 80%;
+  border-radius: 50px;
+  height: 64px;
+}
+.email-input{
+  border: none;
+  width: 100%;
+  font-size: 16px;
+}
+.subscribe-email-submit-btn{
+  border: none;
+  background-color: #29a56c;
+  color: white;
+  border-radius: 50px;
+  width: 15rem;
+  padding: 15px 40px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.paper-plane-icon{
+  display: flex;
+  align-items: center;
+  margin-inline: 1.5rem;
+}
+.bx-paper-plane::before{
+    font-size: 25px;
+}

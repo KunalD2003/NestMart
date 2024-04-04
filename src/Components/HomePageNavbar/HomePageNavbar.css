@@ -1,0 +1,28 @@
+.popular-products-header {
+  display: flex;
+  align-items: center;
+  font-family: 'Quicksand', sans-serif;
+  justify-content: space-between;
+  width: 100%;
+  margin-block: 1rem;
+  padding-inline: 0.5rem;
+}
+
+.popular-products-title {
+  font-weight: 700;
+  font-size: 32px;
+  color: #253d4e;
+}
+
+.popular-products-nav-menu {
+  display: flex;
+  cursor: pointer;
+}
+
+.popular-products-nav-menu-items {
+  text-decoration: none;
+  margin-inline: 0.5rem;
+  font-size: 16px;
+  color: #253d4e;
+  font-weight: 900;
+}

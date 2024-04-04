@@ -1,0 +1,28 @@
+.home-four-card-container {
+  display: flex;
+  margin-inline: 0.5rem;
+}
+
+.home-four-card-title-div {
+  border-bottom: 1px solid #ececec;
+  font-size: 24px;
+  margin-bottom: 30px
+}
+
+.home-four-card-title {
+  padding-bottom: 15px;
+  font-family: Quicksand, sans-serif;
+  color: #253d4e;
+  font-weight: 900;
+}
+
+.home-four-card-individual-container {
+  margin-inline: 0.5rem;
+}
+
+.home-four-card-line-div {
+  background-color: #bce3c9;
+  /* padding: 5px; */
+  width: 80px;
+  height: 2px;
+}

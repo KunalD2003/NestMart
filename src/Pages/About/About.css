@@ -1,0 +1,7 @@
+.about{
+  margin: 1rem;
+}
+.about-description-outer-div, .about-provide-outer-div {
+  display: flex;
+  width: 100%;
+}

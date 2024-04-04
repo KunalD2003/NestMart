@@ -1,0 +1,191 @@
+home: {
+  homeCrousel: [
+    Crousel1: {
+      id: ,
+      title: ,
+      subtitle: ,
+    },
+    Crousel2: {
+      id: ,
+      title: ,
+      subtitle: ,
+    }
+    Crousel3: {
+      id: ,
+      title: ,
+      subtitle: ,
+    },
+  ],
+  featuredCategories:[
+      {
+        id: ,
+        image: ,
+        title: ,
+        subtitle: ,
+        link: ,
+      },
+      {
+        id: ,
+        image: ,
+        title: ,
+        subtitle: ,
+        link: ,
+      },
+      {
+        id: ,
+        image: ,
+        title: ,
+        subtitle: ,
+        link: ,
+      },
+    ],
+  titleCards: [
+    {
+      id: ,
+      title: ,
+      backgroundImage: ,
+      link: ,
+    },
+    {
+      id: ,
+      title: ,
+      backgroundImage: ,
+      link: ,
+    },
+    {
+      id: ,
+      title: ,
+      backgroundImage: ,
+      link: ,
+    }
+  ],
+}
+products: {
+    productBasic:[
+      {
+        id: ,
+      productName: {
+        Name: ,
+        Link: ,
+      },
+      rating: ,
+      manufacturedBy: ,
+      price: {
+        currentPrice: ,
+        offerPrice: ,
+        offerPercent: ,
+      },
+      images: {
+        frontSide: ,
+        backImage: ,
+        SideImage: ,
+      },
+      brand: ,
+      cardTags: [" "," "," "],
+      pouplarityType: ,
+      category: ,
+      stock: {
+        available: ,
+        total: ,
+      }, 
+      time: ,
+      color: {
+        red:{
+          frontImage:
+          BackImage:
+          SideImage:
+        },{},{},{}
+      },
+      sizes: [" "," "," "," "],
+      smallDescription: ,
+      },{},{},{}
+    ],
+    "Description": {
+        firstPara: "Uninhibited carnally hired played in whimpered dear gorilla koala depending and much yikes off far quetzal goodness and from for grimaced goodness unaccountably and meadowlark near unblushingly crucial scallop tightly neurotic hungrily some and dear furiously this apart.",
+        miniFeatureList: {
+          "Type Of Packing": "Bottle",
+          "Color" : "Green, Pink, Powder Blue, Purple",
+          "Quantity Per Case": "100ml",
+          "Ethyl Alcohol": "70%",
+          "Piece In One": "Carton"
+        },
+        lastPara:{
+          title: "Packaging & Delivery",
+          firstPara: "Less lion goodness that euphemistically robin expeditiously bluebird smugly scratched far while thus cackled sheepishly rigid after due one assenting regarding censorious while occasional or this more crane went more as this less much amid overhung anathematic because much held one exuberantly sheep goodness so where rat wry well concomitantly.",
+          secondPara: "Scallop or far crud plain remarkably far by thus far iguana lewd precociously and and less rattlesnake contrary caustic wow this near alas and next and pled the yikes articulate about as less cackled dalmatian in much less well jeering for the thanks blindly sentimental whimpered less across objectively fanciful grimaced wildly some wow and rose jeepers outgrew lugubrious luridly irrationally attractively dachshund."
+        }
+    },
+    "Additional Info": {
+      "Stand Up": "35″L x 24″W x 37-45″H(front to back wheel)",
+      "Folded (w/o wheels)": "32.5″L x 18.5″W x 16.5″H",
+      "Folded (w/ wheels)": "32.5″L x 24″W x 18.5″H",
+      "Door Pass Through": "24",
+      "Frame": "Aluminum",
+      "Weight (w/o wheels)": "20 LBS",
+      "Weight Capacity": "60 LBS",
+      "Width": "24″",
+      "Handle height (ground to handle)": "37-45″",
+      "Wheels": "12″ air / wide track slick tread",
+      "Seat back height": "21.5″",
+      "Head room (inside canopy)": "25″",
+      "Color": "Black, Blue, Red, White",
+      "Size": "M, S"
+    }
+    "Vendor": {
+      title: "Noodles Co.",
+      rating: 4.5,
+      totalReviews: "32 reviews",
+      address_Contact{
+        "Address": "5171 W Campbell Ave undefined Kent, Utah 53127 United States",
+        "Contact Seller": "(+91) - 540-025-553" 
+      },
+      percentageSection: {
+        "Rating": "92%",
+        "Ship on time": "100%",
+        "Chat response": "89%"
+      },
+      vendorMiniDescription: "Noodles & Company is an American fast-casual restaurant that offers international and American noodle dishes and pasta in addition to soups and salads. Noodles & Company was founded in 1995 by Aaron Kennedy and is headquartered in Broomfield, Colorado. The company went public in 2013 and recorded a $457 million revenue in 2017.In late 2018, there were 460 Noodles & Company locations across 29 states and Washington, D.C."
+    }
+    "Reviews": {
+      customerQA: {
+        title: "Customer questions & answers",
+        customers: [
+          {
+            customerName; "Jacky Chan",
+            joinedOn: "Since 2012",
+            reviewPara: "Thank you very fast shipping from Poland only 3days.",
+            rating: 4.5,
+            reviewedOn: "December 4, 2020 at 3:12 pm"
+            image: ,
+          },
+          {
+            customerName; "Ana Rosie",
+            joinedOn: "Since 2008",
+            reviewPara: "Great low price and works well.",
+            rating: 4.5,
+            reviewedOn: "December 4, 2020 at 3:12 pm"
+            image: ,
+          },
+          {
+            customerName; "Steven Keny",
+            joinedOn: "Since 2010",
+            reviewPara: "Authentic and Beautiful, Love these way more than ever expected They are Great earphones",
+            rating: 4.5,
+            reviewedOn: "December 4, 2020 at 3:12 pm",
+            image: 
+          }
+        ]
+      }
+      customeReviews: {
+          average: 4.8,
+          outOf: 5,
+          starPercent: {
+            "5 star": 50,
+            "4 star": 25,
+            "3 star": 45,
+            "2 star": 65,
+            "1 star": 85,
+          }
+      }
+    }
+}

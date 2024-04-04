@@ -1,0 +1,174 @@
+.footer-3,
+.footer-logo-reach,
+.footer-logo,
+.reach-section,
+.reach-item,
+.reach-title-section,
+.footer-nav-item {
+  display: flex;
+}
+
+.footer-3 {
+  padding-inline: 0.75rem;
+  padding-block: 25px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: 1px solid grey;
+  margin-bottom: 1rem;
+  border-top: none;
+  border-inline: none;
+}
+
+.footer-logo-reach,
+.footer-logo,
+.reach-section {
+  flex-direction: column;
+}
+
+.footer-logo-reach {
+  font-family: "Lato", sans-serif;
+  padding-right: 12px;
+  width: 27%;
+}
+
+.footer-logo-img {
+  width: 215px;
+  height: 67px;
+}
+
+.footer-logo-image-div {
+  margin-bottom: 15px;
+}
+
+.footer-logo {
+  margin-bottom: 30px;
+}
+
+.footer-logo-para {
+  font-size: 17px;
+  color: #253d4e;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.reach-title-icon {
+  display: flex;
+  align-items: center;
+}
+
+.reach-title-icon::before {
+  color: #3bb77e;
+  font-size: 20px;
+  font-weight: 100;
+  margin-right: 0.5rem;
+}
+
+.footer-3 .bx-paper-plane::before {
+  font-size: 20px;
+}
+
+.reach-item {
+  margin-bottom: 10px;
+  font-size: 15px;
+  color: #253d4e;
+  align-items: start;
+}
+
+.email-link {
+  text-decoration: none;
+  font-size: 15px;
+  color: #253d4e;
+}
+
+.reach-title-section {
+  margin-right: 0.3rem;
+  font-weight: 600;
+  color: #253d4e;
+}
+
+.footer-nav-item {
+  flex-direction: column;
+  margin-right: 50px;
+  padding-inline: 12px;
+  justify-content: space-between;
+  width: 15.4%;
+}
+
+.footer-nav-item-title {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #253d4e;
+}
+
+.footer-nav-item-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.footer-nav-item-content {
+  font-size: 15px;
+  color: #253d4e;
+  text-decoration: none;
+}
+
+.install-payment-div {
+  width: 50%;
+}
+
+.install-div {
+  padding-inline: 12px;
+  font-family: "Quicksand", sans-serif;
+}
+
+.install-title {
+  font-size: 24px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: #253d4e;
+  font-weight: 700;
+}
+
+.install-subtitle-img-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.install-subtitle-para {
+  font-size: 15px;
+  color: #253d4e;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+
+.app-play-store-div {
+  display: flex;
+  margin-top: 25px;
+  margin-bottom: 33px;
+}
+
+.app-play-store-img {
+  height: 43px;
+  width: 128px;
+  margin-right: 1rem;
+}
+
+.footer-payment-div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}
+
+.footer-payment-text {
+  font-size: 15px;
+  color: #253d4e;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.footer-payment-img{
+  width: 224px;
+  height: 32px;
+}

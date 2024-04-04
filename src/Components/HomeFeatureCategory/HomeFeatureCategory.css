@@ -1,0 +1,102 @@
+.featured-categories-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
+
+.featured-categories-header {
+  display: flex;
+  align-items: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.featured-categories-title {
+  font-weight: 700;
+  font-size: 32px;
+  color: #253d4e;
+}
+
+.featured-categories-nav-menu {
+  margin-inline: 1rem;
+}
+
+.featured-categories-nav-menu-items {
+  text-decoration: none;
+  margin-inline: 1rem;
+  font-size: 16px;
+  color: #253d4e;
+  font-weight: 700;
+}
+.featured-categories-item{
+  position: relative;
+  overflow: auto;
+  scroll-behavior: smooth;
+  margin-inline: 16px;
+}
+.featured-categories-item::-webkit-scrollbar{
+  display: none;
+}
+.product-container{
+  display: inline-flex;
+  overflow: auto;
+  scroll-behavior: smooth;
+}
+.featured-categories-item-card{
+  display: block;
+  flex-wrap: nowrap;
+  margin-inline: 0.75rem;
+  width: 110px;
+  padding: 20px 0 18px;
+  border: none;
+}
+.featured-categories-item-card-title{
+  font-size: 16px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+}
+
+.featured-categories-item-card-subtitle{
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+}
+
+.featured-categories-item-card-title, .featured-categories-item-card-subtitle{
+  text-align: center;
+}
+.card-body{
+  padding: 0rem;
+}
+
+.featured-categories-item-swipe-btn-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+}
+.featured-categories-item-swipe-btn{
+  border-radius: 50%;
+  display: flex;
+  background-color: #f2f3f4;
+  height: 45px;
+  width: 45px;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  margin-inline: 4px;
+}
+.featured-categories-item-swipe-icon::before{
+  color: #7e7e7e;
+  font-size: 23px;
+  font-weight: 400
+}
+.featured-categories-item-swipe-btn:hover{
+  background-color: #3bb77e;
+}
+.featured-categories-item-swipe-btn:hover .featured-categories-item-swipe-icon::before {
+  color: white; /* Change color on hover */
+}
+
+.featured-categories-item-card a{
+  text-decoration: none;
+  color: #253d4e;
+}

@@ -1,0 +1,44 @@
+.home-banner-subscription {
+  content: "";
+  width: 98%;
+  border-radius: 20px;
+  z-index: -1;
+  overflow: hidden;
+  display: flex;
+  margin-inline: auto;
+  font-family: "Quicksand", sans-serif;
+  background-position: 50%;
+}
+
+.home-banner-subs-content-section {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding-block: 84px;
+  padding-left: 78px;
+  width: 60%;
+}
+
+.home-banner-subs-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-banner-subs-heading {
+  font-size: 64px;
+  color: #253d4e;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 40px
+}
+.home-banner-subs-subHeading{
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #7e7e7e;
+  margin-bottom: 65px;
+  font-family: 'lato', sans-serif;
+}
+.span-text-home-banner-1{
+  color: #3bb77e;
+}
