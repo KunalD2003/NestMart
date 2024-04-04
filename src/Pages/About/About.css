@@ -1,7 +1,10 @@
 .about{
   margin: 1rem;
 }
-.about-description-outer-div, .about-provide-outer-div {
+.about-description-outer-div, .about-provide-outer-div, .about-our-performance-outer-div {
   display: flex;
   width: 100%;
+}
+.about-our-performance-outer-div{
+  flex-direction: column;
 }

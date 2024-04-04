@@ -547,35 +547,42 @@ const initialState = {
   },
   provide: [
     {
+      id: nanoid(),
       title: "Best Prices & Offers",
       imageLink: "https://nest-nextjs-13.vercel.app/assets/imgs/theme/icons/icon-1.svg",
       subtitle: "Orders $50 or more",
       description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
     },
     {
+      id: nanoid(),
       title: "Wide Assortment",
       subtitle: "Mega Discounts",
       imageLink: "https://nest-nextjs-13.vercel.app/assets/imgs/theme/icons/icon-2.svg",
       description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
     },
     {
+      id: nanoid(),
       title: "Free Delivery",
       subtitle: "24/7 amazing services",
       imageLink: "https://nest-nextjs-13.vercel.app/assets/imgs/theme/icons/icon-3.svg",
       description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
     },
     {
+      id: nanoid(),
       title: "Easy Returns",
       subtitle: "Within 30 days",
       imageLink: "https://nest-nextjs-13.vercel.app/assets/imgs/theme/icons/icon-4.svg",
       description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
     },
     {
+      id: nanoid(),
       title: "100% Satisfaction",
+      subtitle: "",
       imageLink: "https://nest-nextjs-13.vercel.app/assets/imgs/theme/icons/icon-5.svg",
       description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form"
     },
     {
+      id: nanoid(),
       title: "Great Daily Deal",
       subtitle: "When you sign up",
       imageLink: "https://nest-nextjs-13.vercel.app/assets/imgs/theme/icons/icon-6.svg",

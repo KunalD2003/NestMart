@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import { BreadcrumbComponent, AboutDescription,AboutProvide } from '../../index'
+import { BreadcrumbComponent, AboutDescription, AboutProvide, AboutOurPerformance, AboutThreePara} from '../../index'
 
 function About() {
   return (
@@ -13,6 +13,10 @@ function About() {
       </div>
       <div className='about-provide-outer-div'>
         <AboutProvide />
+      </div>
+      <div className='about-our-performance-outer-div'>
+        <AboutOurPerformance />
+        <AboutThreePara />
       </div>
     </div>
   )

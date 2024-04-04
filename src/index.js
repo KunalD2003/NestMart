@@ -21,5 +21,8 @@ import About from "./Pages/About/About";
 import BreadcrumbComponent from "./Components/BreadcrumbComponent/BreadcrumbComponent";
 import AboutDescription from "./Components/AboutDescription/AboutDescription";
 import AboutProvide from "./Components/AboutProvide/AboutProvide";
+import AboutProvideCard from "./Components/AboutProvideCard/AboutProvideCard";
+import AboutOurPerformance from "./Components/AboutOurPerformance/AboutOurPerformance";
+import AboutThreePara from "./Components/AboutThreePara/AboutThreePara";
 
-export {Navbar, Navbar1, Navbar2, Navbar3, Footer, Footer1, Footer2, Footer3, SubscribeInputBtn, Home, HomeBanner, HomeFeatureCategory, ThreeCard, PopularProducts, ProductsCard1, HomePageNavbar, HomeDailyBestSales, HomeFourCard, HomeFourCardProduct, About, BreadcrumbComponent, AboutDescription, AboutProvide}
+export {Navbar, Navbar1, Navbar2, Navbar3, Footer, Footer1, Footer2, Footer3, SubscribeInputBtn, Home, HomeBanner, HomeFeatureCategory, ThreeCard, PopularProducts, ProductsCard1, HomePageNavbar, HomeDailyBestSales, HomeFourCard, HomeFourCardProduct, About, BreadcrumbComponent, AboutDescription, AboutProvide, AboutProvideCard, AboutOurPerformance, AboutThreePara}

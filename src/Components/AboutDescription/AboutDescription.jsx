@@ -18,7 +18,7 @@ function AboutDescription() {
           </div>
           <div className='about-description-para'>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In porro rem dolorem nesciunt at? Distinctio dignissimos magnam dolor eligendi, deserunt facere deleniti facilis odio repudiandae cupiditate delectus reiciendis? Suscipit repellendus quod amet perferendis facilis non, vero atque nam fugiat tempore! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis officia deserunt temporibus.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. In porro rem dolorem nesciunt at? Distinctio dignissimos magnam dolor eligendi, deserunt facere deleniti facilis odio repudiandae cupiditate delectus reiciendis? Suscipit repellendus quod amet perferendis facilis non, vero atque nam fugiat tempore! 
             </p>
           </div>
         </div>

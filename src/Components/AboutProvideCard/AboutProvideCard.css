@@ -1,0 +1,47 @@
+.about-provide-card {
+  margin-inline: 1rem;
+  padding: 50px 30px;
+  border-radius: 15px;
+  border: 1px solid #ececec;
+  background: #fff;
+  margin-block: 1rem;
+}
+
+.about-provide-card-img {
+  height: 7rem;
+  width: 7rem;
+  margin-inline: auto;
+  margin-bottom: 30px;
+}
+
+.about-provide-card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-provide-card-title {
+  font-size: 24px;
+  color: #253d4e;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.about-provide-card-description {
+  font-size: 17px;
+  font-weight: 400;
+  font-family: 'Lato',sans-serif;
+  line-height: 24px;
+  color: #7e7e7e;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.about-provide-card-link{
+  text-decoration: none;
+  color: #3bb77e;
+  font-size: 16px;
+  cursor: pointer;
+}
+.about-provide-card-link:hover{
+  color: #fdc040;
+  transition: 0.3s ease;
+}
